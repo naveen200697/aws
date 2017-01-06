@@ -6,7 +6,5 @@ package com.test;
 public class MyFirstJava {
 
 
-
-
     
 }
