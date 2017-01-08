@@ -7,6 +7,8 @@ public class MyFirstJava {
 
 
     public void getMyName(){
+
+        
         System.out.println("Naveen Prakash");
     }
 
